@@ -1,6 +1,6 @@
 ## 聖經《和合本》讀經年表 
 
-## input
+## input, 總共 1,189 章
 ```bash 
 raw.csv
 ```
@@ -13,7 +13,7 @@ $ ./result2json.sh   # result as json, for programmatic use
 $ ./result2csv.sh    # result as csv, for notion use
 ```
 
-## input
+## output
 ```bash 
 result.csv
 ```
