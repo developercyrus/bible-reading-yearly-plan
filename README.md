@@ -4,5 +4,6 @@
 ```bash 
 $ ./raw2plan.sh
 $ ./csv2json.sh
-$ ./json2result.sh
+$ ./result2json.sh
+$ ./result2csv.sh
 ```
