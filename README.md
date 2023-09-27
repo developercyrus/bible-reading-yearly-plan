@@ -7,10 +7,10 @@ raw.csv
 
 ## run by cli
 ```bash 
-$ ./raw2plan.sh
-$ ./csv2json.sh
-$ ./result2json.sh
-$ ./result2csv.sh
+$ ./raw2plan.sh      # after day 270, read no. of chapter from 3 to 4.
+$ ./csv2json.sh      # convert to json for group_by day
+$ ./result2json.sh   # result as json, for programmatic use 
+$ ./result2csv.sh    # result as csv, for notion use
 ```
 
 ## input
